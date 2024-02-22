@@ -1,13 +1,13 @@
 {
   "type": "module",
-  "name": "competition_5",
+  "name": "competition_7",
   "version": "1.0.0",
-  "main": "func_load_5.js",
+  "description": "",
+  "main": "func_load_7.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
